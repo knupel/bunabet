@@ -1,0 +1,30 @@
+
+.layout {
+	position: absolute;
+	width: 100%;
+	/* background: magenta; */
+	color: var(--first_color);
+	font-family: -apple-system, Roboto, sans-serif, serif;
+}
+
+footer {
+	height: 50px;
+  display: flex;
+  align-items: center;
+	/* justify-content: center; */
+	border-top: 1px solid var(--first_color);
+	padding: 0 30px;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+p {
+	font-size: 0.9em
+}
+
+body {
+	margin: 0;
+	background: white;
+}
